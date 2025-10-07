@@ -1,14 +1,18 @@
 {
   "admin": {
     "title": "Admin Login",
+    "sloagen" : "Billig ist besser"
     "welcome": "Willkommen, großer Herrscher!"
   },
-  "user": {
+  "r2fy5p": {
     "title": "Benutzer Login",
+    "sloagen" : "Billig ist besser"
     "welcome": "Willkommen zurück!"
   },
-  "guest": {
+  "gmbo2": {
     "title": "Gäste-Ansicht",
-    "welcome": "Bitte logge dich ein."
+    "sloagen" : "Billig ist besser"
+    "homepage": "Bitte logge dich ein."
   }
+  
 }
