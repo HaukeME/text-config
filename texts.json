@@ -1,1 +1,14 @@
-
+{
+  "admin": {
+    "title": "Admin Login",
+    "welcome": "Willkommen, großer Herrscher!"
+  },
+  "user": {
+    "title": "Benutzer Login",
+    "welcome": "Willkommen zurück!"
+  },
+  "guest": {
+    "title": "Gäste-Ansicht",
+    "welcome": "Bitte logge dich ein."
+  }
+}
