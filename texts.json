@@ -2,17 +2,20 @@
   "admin": {
     "title": "Admin Login",
     "sloagen" : "Billig ist besser",
-    "welcome": "Willkommen, großer Herrscher!"
+    "welcome": "Willkommen, großer Herrscher!",
+    "link": "https://www.spacex.com/"
   },
   "r2fy5p": {
     "title": "Benutzer Login",
     "sloagen" : "Billig ist besser",
-    "welcome": "Willkommen zurück!"
+    "welcome": "Willkommen zurück!",
+    "link": "https://www.spacex.com/"
   },
   "gmbo2": {
     "title": "Gäste-Ansicht",
     "sloagen" : "Billig ist besser",
-    "welcome": "Bitte logge dich ein."
+    "welcome": "Bitte logge dich ein.",
+    "link": "https://www.spacex.com/"
   }
   
 }
